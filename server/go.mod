@@ -4,6 +4,7 @@ go 1.18
 
 require (
 	github.com/golang/protobuf v1.5.2
+	github.com/ssouthcity/go-workspace-test/lib v0.0.0-20220713192455-67c07849e94c
 	google.golang.org/grpc v1.48.0
 	google.golang.org/protobuf v1.28.0
 )

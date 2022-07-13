@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	conn, err := grpc.Dial(":5000", grpc.WithInsecure())
+	conn, err := grpc.Dial("server:5000", grpc.WithInsecure())
 	if err != nil {
 		log.Fatalf("failed to dial grpc server: %v", err)
 	}

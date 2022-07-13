@@ -50,6 +50,8 @@ github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4/go.mod h1:
 github.com/rogpeppe/fastuuid v1.2.0/go.mod h1:jVj6XXZzXRy/MSR5jhDC/2q6DgLz+nrA6LYCDYWNEvQ=
 github.com/ssouthcity/go-workspace-test/lib v0.0.0-20220713192455-67c07849e94c h1:3/7FAGB+uqZGEGDEXQewYxXS1JQyRXKRzO/QXv3ddgs=
 github.com/ssouthcity/go-workspace-test/lib v0.0.0-20220713192455-67c07849e94c/go.mod h1:JjNd4nm2dt8FYiw+eHcj6JWdJNwA8jeT9aburlV5xgs=
+github.com/ssouthcity/go-workspace-test/server v0.0.0-20220713192455-67c07849e94c h1:ooUeuW4s/BqLA4cVFgm6qTPJnJ5IdFk1x624Q+7GWz8=
+github.com/ssouthcity/go-workspace-test/server v0.0.0-20220713192455-67c07849e94c/go.mod h1:PCQHjhTGYog170pQ/BqWpZ9Oo97MO8NVNEg0C5FGqjE=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/testify v1.5.1/go.mod h1:5W2xD1RspED5o8YsWQXVCued0rvSQ+mT+I5cxcmMvtA=
 github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
