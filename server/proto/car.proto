@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package api;
+
+import "google/protobuf/empty.proto";
+
+option go_package = ".";
+
+service CarService {
+    rpc GetCars(google.protobuf.Empty) returns (stream Car);
+}
+  
+message Car {
+    string Brand = 1;
+    string Model = 2;
+}
